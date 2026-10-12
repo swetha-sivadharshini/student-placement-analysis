@@ -1,0 +1,501 @@
+student_id,branch,cgpa,internship_count,skills_count,primary_skill,placement_status,company,package_lpa,location,graduation_year
+STU001,IT,8.13,0,5,Sql,Placed,TCS,6.26,Bangalore,2026
+STU002,CSE,7.6,1,5,Cybersecurity,Placed,Tech Mahindra,7.32,Chennai,2026
+STU003,EEE,7.95,0,3,Cloud Computing,Not Placed,,,Nan,2026
+STU004,ECE,8.21,1,4,Unknown,Placed,HCL,8.4,Pune,2026
+STU005,CSE,7.2,2,4,Web Development,Placed,TCS,8.66,Hyderabad,2026
+STU006,MECH,8.58,2,6,Cybersecurity,Placed,Zoho,8.91,Hyderabad,2026
+STU007,CSE,7.3,1,5,Java,Placed,Accenture,6.71,Pune,2026
+STU008,CSE,9.37,2,5,Web Development,Placed,TCS,9.57,Chennai,2026
+STU009,EEE,7.26,2,5,Cloud Computing,Placed,HCL,8.17,Noida,2026
+STU010,ECE,7.67,0,4,Data Analysis,Placed,Freshworks,8.2,Pune,2026
+STU011,ECE,7.94,1,6,Sql,Placed,Wipro,9.42,Pune,2026
+STU012,IT,7.49,1,5,Machine Learning,Placed,Capgemini,8.97,Chennai,2026
+STU013,IT,8.75,2,6,Cloud Computing,Placed,Freshworks,9.05,Chennai,2026
+STU014,MECH,8.6,2,4,Java,Placed,Infosys,10.55,Hyderabad,2026
+STU015,EEE,6.97,1,3,Python,Placed,HCL,5.48,Hyderabad,2026
+STU016,EEE,7.47,2,4,Python,Placed,Tech Mahindra,9.76,Chennai,2026
+STU017,IT,8.39,1,3,Machine Learning,Placed,Wipro,7.5,Coimbatore,2026
+STU018,ECE,5.48,0,5,Web Development,Not Placed,,,Nan,2026
+STU019,ECE,7.13,2,4,Web Development,Placed,Zoho,6.68,Coimbatore,2026
+STU020,CSE,6.82,0,2,Python,Not Placed,,,Nan,2026
+STU021,MECH,7.69,0,5,Web Development,Placed,Tech Mahindra,7.5,Bangalore,2026
+STU022,EEE,7.26,2,3,Sql,Placed,Zoho,7.75,Pune,2026
+STU023,EEE,8.6,1,2,Cloud Computing,Placed,Infosys,7.39,Bangalore,2026
+STU024,ECE,7.89,0,3,Machine Learning,Not Placed,,,Nan,2026
+STU025,MECH,6.01,1,2,Python,Not Placed,,,Nan,2026
+STU026,MECH,8.06,2,3,Machine Learning,Placed,Freshworks,9.91,Bangalore,2026
+STU027,ECE,8.13,2,4,Cybersecurity,Placed,Capgemini,9.5,Pune,2026
+STU028,CSE,7.44,0,7,Python,Placed,TCS,6.2,Pune,2026
+STU029,ECE,7.78,3,3,Java,Placed,Infosys,9.78,Bangalore,2026
+STU030,ECE,7.13,3,5,Python,Placed,Freshworks,9.64,Coimbatore,2026
+STU031,ECE,8.0,1,3,Cybersecurity,Placed,Cognizant,7.72,Chennai,2026
+STU032,CSE,7.28,1,5,Sql,Not Placed,,,Nan,2026
+STU033,CSE,7.32,2,6,Cloud Computing,Placed,HCL,9.79,Noida,2026
+STU034,CSE,9.35,3,6,Python,Placed,Capgemini,10.81,Noida,2026
+STU035,CSE,7.95,2,6,Java,Placed,Tech Mahindra,8.49,Hyderabad,2026
+STU036,CSE,7.07,1,4,Machine Learning,Not Placed,,,Nan,2026
+STU037,MECH,8.58,2,2,Cloud Computing,Placed,Cognizant,7.91,Pune,2026
+STU038,IT,7.86,1,2,Sql,Placed,Wipro,7.61,Hyderabad,2026
+STU039,IT,7.75,0,6,Python,Placed,Accenture,8.12,Noida,2026
+STU040,CSE,7.83,0,6,Cybersecurity,Placed,Wipro,10.52,Bangalore,2026
+STU041,EEE,8.94,2,2,Cloud Computing,Placed,Freshworks,10.15,Noida,2026
+STU042,EEE,7.28,0,6,Sql,Placed,TCS,8.23,Bangalore,2026
+STU043,CSE,8.15,2,6,Web Development,Placed,Accenture,9.23,Hyderabad,2026
+STU044,EEE,7.14,3,4,Cybersecurity,Placed,Capgemini,8.42,Chennai,2026
+STU045,CSE,7.99,3,4,Sql,Placed,Zoho,10.38,Hyderabad,2026
+STU046,ECE,7.41,3,3,Web Development,Placed,Freshworks,7.42,Coimbatore,2026
+STU047,IT,8.72,0,4,Cloud Computing,Placed,Infosys,8.61,Hyderabad,2026
+STU048,ECE,7.02,1,4,Data Analysis,Placed,Accenture,6.98,Pune,2026
+STU049,IT,8.41,0,5,Python,Placed,Accenture,7.71,Coimbatore,2026
+STU050,IT,6.87,0,4,Web Development,Not Placed,,,Nan,2026
+STU051,EEE,8.76,1,4,Cloud Computing,Placed,Accenture,9.3,Bangalore,2026
+STU052,EEE,7.17,0,2,Machine Learning,Not Placed,,,Nan,2026
+STU053,EEE,5.9,1,5,Cybersecurity,Not Placed,,,Nan,2026
+STU054,CSE,7.96,1,2,Sql,Placed,Accenture,6.59,Noida,2026
+STU055,ECE,8.08,2,4,Machine Learning,Placed,Capgemini,9.26,Pune,2026
+STU056,IT,7.69,1,5,Machine Learning,Placed,HCL,7.92,Bangalore,2026
+STU057,EEE,7.26,1,3,Machine Learning,Not Placed,,,Nan,2026
+STU058,CSE,8.87,0,4,Sql,Placed,Accenture,7.73,Bangalore,2026
+STU059,IT,8.25,1,4,Web Development,Placed,Freshworks,9.54,Coimbatore,2026
+STU060,MECH,7.82,0,6,Cybersecurity,Placed,Zoho,7.03,Pune,2026
+STU061,EEE,8.3,2,5,Web Development,Placed,Cognizant,9.23,Chennai,2026
+STU062,ECE,7.26,1,6,Java,Placed,Wipro,9.38,Coimbatore,2026
+STU063,CSE,6.69,0,5,Java,Placed,Wipro,5.02,Pune,2026
+STU064,CSE,8.14,1,4,Cybersecurity,Placed,Freshworks,7.48,Chennai,2026
+STU065,ECE,7.5,3,3,Sql,Placed,TCS,9.76,Bangalore,2026
+STU066,CSE,7.24,0,3,Java,Not Placed,,,Nan,2026
+STU067,CSE,8.35,0,4,Sql,Placed,Wipro,9.01,Chennai,2026
+STU068,IT,7.21,2,5,Cybersecurity,Placed,Accenture,7.17,Noida,2026
+STU069,EEE,7.56,0,5,Sql,Placed,Tech Mahindra,8.0,Hyderabad,2026
+STU070,ECE,8.74,1,2,Cloud Computing,Placed,Freshworks,9.23,Chennai,2026
+STU071,ECE,6.41,1,3,Java,Not Placed,,,Nan,2026
+STU072,MECH,,0,6,Machine Learning,Placed,Tech Mahindra,7.81,Bangalore,2026
+STU073,EEE,8.91,0,4,Cybersecurity,Placed,HCL,9.17,Bangalore,2026
+STU074,ECE,8.36,1,4,Data Analysis,Placed,Cognizant,8.59,Coimbatore,2026
+STU075,MECH,8.6,1,6,Machine Learning,Placed,HCL,8.98,Chennai,2026
+STU076,CSE,8.15,0,5,Data Analysis,Placed,Zoho,7.6,Coimbatore,2026
+STU077,CSE,8.51,1,4,Data Analysis,Placed,Infosys,9.22,Hyderabad,2026
+STU078,CSE,7.48,1,6,Java,Placed,HCL,7.46,Coimbatore,2026
+STU079,MECH,6.86,0,3,Web Development,Not Placed,,,Nan,2026
+STU080,CSE,7.4,1,3,Python,Placed,Capgemini,6.69,Bangalore,2026
+STU081,IT,7.51,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU082,CSE,7.13,0,7,Machine Learning,Not Placed,,,Nan,2026
+STU083,CSE,6.45,1,3,Data Analysis,Not Placed,,,Nan,2026
+STU084,CSE,7.55,1,4,Web Development,Placed,Freshworks,7.55,Pune,2026
+STU085,CSE,,1,2,Sql,Placed,Accenture,6.88,Hyderabad,2026
+STU086,IT,7.05,0,3,Sql,Not Placed,,,Nan,2026
+STU087,ECE,7.16,0,4,Data Analysis,Placed,HCL,5.26,Bangalore,2026
+STU088,MECH,6.66,2,5,Web Development,Placed,Capgemini,7.12,Bangalore,2026
+STU089,MECH,7.64,0,4,Data Analysis,Placed,HCL,7.54,Noida,2026
+STU090,ECE,7.23,0,5,Machine Learning,Not Placed,,,Nan,2026
+STU091,CSE,6.86,0,3,Python,Not Placed,,,Nan,2026
+STU092,IT,7.79,0,2,Java,Not Placed,,,Nan,2026
+STU093,IT,7.94,1,5,Machine Learning,Placed,HCL,7.84,Hyderabad,2026
+STU094,CSE,7.25,0,3,Cybersecurity,Not Placed,,,Nan,2026
+STU095,CSE,8.88,1,4,Cloud Computing,Placed,Infosys,10.3,Pune,2026
+STU096,EEE,7.0,2,2,Machine Learning,Placed,Accenture,7.56,Coimbatore,2026
+STU097,EEE,6.55,0,5,Data Analysis,Not Placed,,,Nan,2026
+STU098,IT,6.54,0,8,Web Development,Placed,Cognizant,7.14,Coimbatore,2026
+STU099,ECE,7.74,0,7,Java,Placed,Cognizant,7.84,Hyderabad,2026
+STU100,ECE,9.02,1,4,Machine Learning,Placed,Freshworks,8.09,Coimbatore,2026
+STU101,ECE,8.66,0,6,Cybersecurity,Placed,Capgemini,7.7,Chennai,2026
+STU102,CSE,6.4,0,5,Machine Learning,Not Placed,,,Nan,2026
+STU103,ECE,6.78,2,4,Cloud Computing,Placed,Accenture,8.02,Bangalore,2026
+STU104,EEE,7.57,1,4,Machine Learning,Placed,Freshworks,7.37,Noida,2026
+STU105,EEE,7.23,3,3,Cloud Computing,Placed,HCL,7.56,Pune,2026
+STU106,CSE,7.12,0,6,Java,Not Placed,,,Nan,2026
+STU107,EEE,7.39,1,3,Cloud Computing,Placed,Capgemini,6.94,Hyderabad,2026
+STU108,IT,8.61,2,4,Python,Placed,Accenture,9.84,Hyderabad,2026
+STU109,MECH,7.48,0,5,Sql,Placed,Cognizant,8.29,Chennai,2026
+STU110,CSE,6.65,0,4,Cybersecurity,Not Placed,,,Nan,2026
+STU111,ECE,6.2,0,2,Cybersecurity,Not Placed,,,Nan,2026
+STU112,CSE,6.93,2,3,Machine Learning,Placed,HCL,6.95,Chennai,2026
+STU113,EEE,6.86,1,2,Cloud Computing,Placed,Cognizant,6.99,Pune,2026
+STU114,IT,7.64,1,4,Cybersecurity,Placed,Infosys,6.99,Coimbatore,2026
+STU115,ECE,7.15,0,6,Cybersecurity,Not Placed,,,Nan,2026
+STU116,IT,8.69,1,6,Python,Placed,HCL,10.22,Hyderabad,2026
+STU117,EEE,7.68,0,3,Data Analysis,Placed,Wipro,7.15,Noida,2026
+STU118,IT,8.93,0,4,Cloud Computing,Placed,Infosys,9.37,Hyderabad,2026
+STU119,IT,7.69,1,8,Data Analysis,Placed,Cognizant,10.06,Pune,2026
+STU120,MECH,7.88,0,6,Sql,Placed,Infosys,6.61,Bangalore,2026
+STU121,EEE,7.14,3,6,Cloud Computing,Placed,Freshworks,7.97,Coimbatore,2026
+STU122,CSE,5.29,1,6,Data Analysis,Not Placed,,,Nan,2026
+STU123,EEE,7.86,0,2,Cloud Computing,Placed,Accenture,7.12,Noida,2026
+STU124,EEE,7.36,2,4,Cybersecurity,Placed,TCS,9.66,Hyderabad,2026
+STU125,MECH,7.94,1,4,Cloud Computing,Placed,Capgemini,7.8,Noida,2026
+STU126,IT,7.89,2,5,Machine Learning,Placed,Cognizant,7.65,Hyderabad,2026
+STU127,CSE,6.95,1,8,Cloud Computing,Placed,Zoho,6.84,Hyderabad,2026
+STU128,CSE,7.7,0,6,Machine Learning,Placed,Accenture,7.96,Coimbatore,2026
+STU129,MECH,8.18,3,6,Web Development,Placed,Capgemini,9.48,Bangalore,2026
+STU130,EEE,7.73,0,6,Python,Placed,Wipro,9.02,Coimbatore,2026
+STU131,CSE,8.04,0,2,Web Development,Placed,TCS,5.86,Chennai,2026
+STU132,CSE,8.55,1,3,Sql,Placed,Zoho,8.38,Chennai,2026
+STU133,ECE,7.7,1,7,Data Analysis,Placed,TCS,7.26,Pune,2026
+STU134,EEE,8.59,1,3,Machine Learning,Placed,Infosys,7.85,Bangalore,2026
+STU135,CSE,7.32,1,4,Data Analysis,Placed,Tech Mahindra,7.28,Noida,2026
+STU136,CSE,8.62,1,6,Web Development,Placed,Accenture,8.9,Pune,2026
+STU137,ECE,7.41,0,4,Java,Placed,HCL,5.47,Chennai,2026
+STU138,CSE,6.81,0,5,Java,Not Placed,,,Nan,2026
+STU139,IT,6.84,0,4,Cybersecurity,Not Placed,,,Nan,2026
+STU140,IT,7.23,3,5,Cloud Computing,Placed,Capgemini,8.4,Noida,2026
+STU141,ECE,7.93,1,3,Data Analysis,Placed,Freshworks,8.82,Coimbatore,2026
+STU142,IT,6.89,1,2,Data Analysis,Not Placed,,,Nan,2026
+STU143,CSE,7.64,1,3,Java,Placed,Freshworks,6.23,Noida,2026
+STU144,IT,5.7,0,6,Web Development,Placed,Unknown,,Unknown,2026
+STU145,ECE,7.88,0,7,Sql,Placed,Wipro,6.91,Coimbatore,2026
+STU146,CSE,8.08,0,4,Cybersecurity,Placed,HCL,7.11,Bangalore,2026
+STU147,EEE,8.14,0,5,Machine Learning,Placed,Cognizant,6.31,Pune,2026
+STU148,MECH,8.06,0,3,Web Development,Placed,Cognizant,6.47,Chennai,2026
+STU149,CSE,7.49,1,5,Cloud Computing,Placed,TCS,7.7,Pune,2026
+STU150,MECH,7.0,2,5,Cybersecurity,Placed,Freshworks,7.62,Pune,2026
+STU151,CSE,6.85,1,6,Cloud Computing,Not Placed,,,Nan,2026
+STU152,EEE,8.78,0,5,Sql,Placed,Cognizant,8.99,Bangalore,2026
+STU153,CSE,7.97,0,5,Cloud Computing,Placed,Wipro,6.73,Bangalore,2026
+STU154,CSE,8.33,0,3,Sql,Placed,HCL,7.24,Coimbatore,2026
+STU155,EEE,5.78,1,5,Cloud Computing,Not Placed,,,Nan,2026
+STU156,IT,8.07,0,2,Machine Learning,Placed,Cognizant,7.14,Hyderabad,2026
+STU157,ECE,7.17,0,6,Sql,Placed,Infosys,7.4,Coimbatore,2026
+STU158,ECE,8.31,1,7,Python,Placed,Tech Mahindra,9.58,Hyderabad,2026
+STU159,IT,5.49,1,6,Cloud Computing,Not Placed,,,Nan,2026
+STU160,CSE,7.48,1,2,Machine Learning,Placed,Capgemini,7.2,Bangalore,2026
+STU161,ECE,8.19,2,5,Python,Placed,Zoho,8.02,Chennai,2026
+STU162,IT,7.11,1,4,Java,Not Placed,,,Nan,2026
+STU163,IT,7.97,3,5,Cybersecurity,Placed,Infosys,9.35,Pune,2026
+STU164,IT,8.08,0,3,Sql,Placed,Freshworks,7.15,Chennai,2026
+STU165,ECE,7.74,3,4,Web Development,Placed,Wipro,8.2,Chennai,2026
+STU166,ECE,8.0,1,5,Python,Placed,Tech Mahindra,7.24,Pune,2026
+STU167,CSE,8.02,1,7,Machine Learning,Placed,Zoho,9.4,Bangalore,2026
+STU168,MECH,8.61,1,6,Machine Learning,Placed,Accenture,8.58,Pune,2026
+STU169,MECH,7.92,1,4,Data Analysis,Placed,Capgemini,8.11,Bangalore,2026
+STU170,EEE,8.63,2,3,Data Analysis,Placed,HCL,10.34,Coimbatore,2026
+STU171,MECH,7.27,0,3,Java,Not Placed,,,Nan,2026
+STU172,MECH,6.56,0,4,Web Development,Not Placed,,,Nan,2026
+STU173,EEE,8.25,1,4,Cybersecurity,Placed,Zoho,7.5,Hyderabad,2026
+STU174,MECH,7.15,2,5,Java,Placed,Cognizant,9.64,Pune,2026
+STU175,IT,8.3,1,2,Sql,Placed,Accenture,8.87,Coimbatore,2026
+STU176,MECH,8.46,1,4,Data Analysis,Placed,Infosys,7.16,Pune,2026
+STU177,IT,7.29,2,5,Python,Placed,Tech Mahindra,7.74,Bangalore,2026
+STU178,CSE,7.3,0,4,Cybersecurity,Not Placed,,,Nan,2026
+STU179,IT,6.75,3,5,Python,Placed,HCL,7.46,Pune,2026
+STU180,MECH,7.39,0,2,Sql,Not Placed,,,Nan,2026
+STU181,IT,6.55,2,4,Python,Not Placed,,,Nan,2026
+STU182,CSE,6.51,1,6,Machine Learning,Placed,HCL,7.65,Bangalore,2026
+STU183,CSE,7.64,0,2,Web Development,Placed,Zoho,7.78,Coimbatore,2026
+STU184,ECE,6.63,2,4,Python,Placed,Accenture,7.03,Chennai,2026
+STU185,EEE,7.3,1,6,Machine Learning,Placed,Freshworks,7.49,Bangalore,2026
+STU186,ECE,7.86,1,7,Data Analysis,Placed,Freshworks,7.46,Coimbatore,2026
+STU187,MECH,7.78,0,4,Data Analysis,Placed,Tech Mahindra,7.75,Bangalore,2026
+STU188,IT,8.1,1,2,Cloud Computing,Placed,Freshworks,7.01,Chennai,2026
+STU189,CSE,7.01,2,5,Python,Placed,Tech Mahindra,8.79,Pune,2026
+STU190,CSE,6.92,0,6,Cloud Computing,Not Placed,,,Nan,2026
+STU191,MECH,7.95,1,4,Machine Learning,Placed,Tech Mahindra,6.97,Hyderabad,2026
+STU192,ECE,7.59,1,4,Sql,Not Placed,,,Nan,2026
+STU193,CSE,5.74,0,6,Machine Learning,Not Placed,,,Nan,2026
+STU194,IT,7.3,1,8,Web Development,Placed,Infosys,8.33,Noida,2026
+STU195,ECE,8.53,2,4,Cloud Computing,Placed,Capgemini,9.5,Hyderabad,2026
+STU196,EEE,8.13,1,7,Java,Placed,Capgemini,8.14,Bangalore,2026
+STU197,EEE,7.58,1,5,Machine Learning,Placed,Capgemini,6.86,Chennai,2026
+STU198,CSE,8.43,1,5,Machine Learning,Placed,Freshworks,9.71,Chennai,2026
+STU199,CSE,7.37,1,5,Java,Placed,Capgemini,8.2,Bangalore,2026
+STU200,EEE,7.79,0,5,Python,Placed,Capgemini,6.32,Bangalore,2026
+STU201,CSE,8.02,3,5,Data Analysis,Placed,Cognizant,9.06,Coimbatore,2026
+STU202,CSE,7.27,1,5,Sql,Placed,Wipro,7.97,Coimbatore,2026
+STU203,CSE,6.81,1,6,Python,Placed,TCS,6.27,Noida,2026
+STU204,EEE,6.43,0,3,Cybersecurity,Not Placed,,,Nan,2026
+STU205,CSE,8.27,1,4,Web Development,Placed,Freshworks,7.74,Chennai,2026
+STU206,IT,6.85,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU207,IT,7.01,2,6,Cybersecurity,Placed,Zoho,8.55,Chennai,2026
+STU208,CSE,8.68,1,4,Web Development,Placed,TCS,8.08,Pune,2026
+STU209,EEE,5.71,2,6,Cloud Computing,Not Placed,,,Nan,2026
+STU210,CSE,8.51,3,4,Data Analysis,Placed,Infosys,11.49,Coimbatore,2026
+STU211,ECE,7.56,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU212,CSE,8.56,0,3,Data Analysis,Placed,Freshworks,7.15,Pune,2026
+STU213,CSE,6.8,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU214,CSE,7.21,3,5,Sql,Placed,Infosys,8.92,Hyderabad,2026
+STU215,IT,7.2,1,4,Python,Not Placed,,,Nan,2026
+STU216,CSE,7.83,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU217,EEE,8.68,0,4,Data Analysis,Placed,Capgemini,8.9,Coimbatore,2026
+STU218,ECE,8.93,1,4,Python,Placed,Infosys,10.38,Coimbatore,2026
+STU219,CSE,8.81,1,5,Data Analysis,Placed,Tech Mahindra,9.31,Noida,2026
+STU220,CSE,6.54,1,5,Cybersecurity,Not Placed,,,Nan,2026
+STU221,IT,9.41,0,2,Cloud Computing,Placed,Freshworks,8.64,Pune,2026
+STU222,ECE,7.88,1,4,Python,Placed,Capgemini,7.11,Hyderabad,2026
+STU223,MECH,6.73,3,4,Cloud Computing,Placed,Cognizant,8.89,Bangalore,2026
+STU224,MECH,7.61,0,4,Data Analysis,Placed,Accenture,7.52,Pune,2026
+STU225,CSE,6.42,2,4,Sql,Placed,Capgemini,7.12,Pune,2026
+STU226,EEE,,3,6,Data Analysis,Placed,Infosys,10.66,Pune,2026
+STU227,IT,7.49,2,4,Data Analysis,Placed,Tech Mahindra,9.16,Bangalore,2026
+STU228,CSE,6.94,1,5,Web Development,Not Placed,,,Nan,2026
+STU229,ECE,7.42,2,2,Java,Placed,HCL,7.81,Bangalore,2026
+STU230,EEE,7.14,0,4,Python,Placed,Infosys,6.98,Bangalore,2026
+STU231,ECE,7.18,2,3,Java,Placed,TCS,9.4,Pune,2026
+STU232,EEE,5.65,0,6,Data Analysis,Not Placed,,,Nan,2026
+STU233,CSE,7.15,3,4,Machine Learning,Placed,Wipro,9.99,Pune,2026
+STU234,CSE,7.34,2,4,Machine Learning,Placed,Wipro,6.85,Hyderabad,2026
+STU235,EEE,6.27,0,6,Cybersecurity,Not Placed,,,Nan,2026
+STU236,ECE,6.94,0,5,Java,Placed,HCL,6.07,Bangalore,2026
+STU237,CSE,6.85,0,4,Python,Not Placed,,,Nan,2026
+STU238,ECE,8.08,0,5,Machine Learning,Placed,Freshworks,8.18,Noida,2026
+STU239,EEE,7.08,3,4,Web Development,Placed,Wipro,8.81,Pune,2026
+STU240,IT,6.44,1,4,Machine Learning,Not Placed,,,Nan,2026
+STU241,EEE,8.12,1,5,Sql,Placed,Capgemini,9.07,Chennai,2026
+STU242,MECH,6.29,0,6,Web Development,Not Placed,,,Nan,2026
+STU243,CSE,7.04,0,3,Machine Learning,Not Placed,,,Nan,2026
+STU244,ECE,8.36,2,4,Cybersecurity,Placed,TCS,9.4,Noida,2026
+STU245,EEE,7.37,2,6,Sql,Placed,Zoho,9.43,Coimbatore,2026
+STU246,MECH,6.71,3,2,Machine Learning,Not Placed,,,Nan,2026
+STU247,ECE,7.66,3,5,Cybersecurity,Placed,Freshworks,9.49,Pune,2026
+STU248,ECE,6.15,1,5,Java,Not Placed,,,Nan,2026
+STU249,CSE,7.93,1,5,Web Development,Placed,TCS,9.72,Pune,2026
+STU250,IT,8.39,1,5,Web Development,Placed,Zoho,7.67,Bangalore,2026
+STU251,MECH,7.44,2,4,Python,Placed,Infosys,7.2,Chennai,2026
+STU252,ECE,7.11,1,6,Web Development,Placed,Freshworks,7.62,Coimbatore,2026
+STU253,CSE,7.68,1,4,Cloud Computing,Placed,Zoho,7.02,Bangalore,2026
+STU254,MECH,7.29,1,4,Data Analysis,Not Placed,,,Nan,2026
+STU255,MECH,8.78,1,4,Machine Learning,Placed,Zoho,10.13,Noida,2026
+STU256,ECE,6.29,1,5,Cybersecurity,Not Placed,,,Nan,2026
+STU257,ECE,7.53,2,4,Unknown,Placed,TCS,8.66,Pune,2026
+STU258,IT,6.59,0,4,Web Development,Not Placed,,,Nan,2026
+STU259,CSE,6.77,1,6,Python,Not Placed,,,Nan,2026
+STU260,IT,7.74,1,6,Web Development,Placed,Tech Mahindra,9.04,Coimbatore,2026
+STU261,CSE,7.95,0,7,Web Development,Placed,Infosys,8.75,Pune,2026
+STU262,MECH,9.19,1,5,Cybersecurity,Placed,Capgemini,8.89,Hyderabad,2026
+STU263,ECE,6.76,0,5,Machine Learning,Not Placed,,,Nan,2026
+STU264,EEE,7.34,0,6,Cloud Computing,Placed,Zoho,7.44,Chennai,2026
+STU265,IT,7.58,0,7,Cybersecurity,Placed,Accenture,7.16,Pune,2026
+STU266,IT,7.94,0,5,Cloud Computing,Placed,HCL,8.9,Noida,2026
+STU267,IT,6.24,1,3,Machine Learning,Not Placed,,,Nan,2026
+STU268,EEE,7.82,3,7,Python,Placed,Infosys,11.62,Noida,2026
+STU269,CSE,7.93,1,2,Java,Not Placed,,,Nan,2026
+STU270,ECE,7.52,1,5,Machine Learning,Placed,TCS,6.44,Coimbatore,2026
+STU271,ECE,8.77,1,4,Cybersecurity,Placed,Wipro,7.61,Chennai,2026
+STU272,ECE,7.63,0,5,Data Analysis,Placed,Cognizant,8.1,Chennai,2026
+STU273,ECE,6.64,3,3,Sql,Placed,TCS,7.01,Pune,2026
+STU274,ECE,8.07,1,5,Java,Placed,Freshworks,8.85,Hyderabad,2026
+STU275,IT,7.72,1,2,Web Development,Placed,Tech Mahindra,7.27,Chennai,2026
+STU276,MECH,7.22,1,4,Python,Not Placed,,,Nan,2026
+STU277,EEE,8.04,0,6,Cybersecurity,Placed,Cognizant,6.82,Bangalore,2026
+STU278,IT,7.55,2,5,Cloud Computing,Placed,Wipro,9.62,Noida,2026
+STU279,IT,5.33,0,4,Sql,Not Placed,,,Nan,2026
+STU280,EEE,7.49,3,4,Cloud Computing,Placed,Cognizant,10.09,Pune,2026
+STU281,ECE,6.33,1,5,Cybersecurity,Not Placed,,,Nan,2026
+STU282,IT,9.0,2,5,Sql,Placed,Freshworks,10.69,Noida,2026
+STU283,CSE,6.92,0,7,Machine Learning,Not Placed,,,Nan,2026
+STU284,CSE,7.98,0,3,Machine Learning,Placed,Capgemini,6.76,Chennai,2026
+STU285,CSE,6.48,2,6,Python,Placed,Freshworks,8.87,Noida,2026
+STU286,MECH,7.14,2,8,Java,Placed,Wipro,8.04,Hyderabad,2026
+STU287,CSE,7.79,0,4,Sql,Placed,Accenture,7.77,Pune,2026
+STU288,IT,7.88,0,3,Data Analysis,Not Placed,,,Nan,2026
+STU289,ECE,7.93,2,4,Cybersecurity,Placed,Tech Mahindra,7.75,Hyderabad,2026
+STU290,IT,6.84,1,4,Java,Placed,Zoho,6.43,Noida,2026
+STU291,IT,8.87,0,4,Cybersecurity,Placed,Tech Mahindra,7.18,Coimbatore,2026
+STU292,CSE,7.22,2,2,Machine Learning,Placed,Accenture,7.51,Hyderabad,2026
+STU293,EEE,8.91,2,5,Java,Placed,Accenture,9.23,Bangalore,2026
+STU294,IT,8.15,2,2,Machine Learning,Placed,Capgemini,8.55,Noida,2026
+STU295,ECE,9.55,1,6,Sql,Placed,Accenture,10.47,Hyderabad,2026
+STU296,CSE,7.98,1,5,Cybersecurity,Placed,Zoho,9.73,Pune,2026
+STU297,CSE,7.96,2,5,Web Development,Placed,Freshworks,9.0,Noida,2026
+STU298,IT,7.83,1,4,Python,Placed,Cognizant,7.69,Chennai,2026
+STU299,CSE,7.91,0,4,Web Development,Placed,Zoho,7.15,Pune,2026
+STU300,IT,7.34,1,2,Python,Placed,Infosys,5.57,Hyderabad,2026
+STU301,IT,7.29,3,4,Java,Placed,Zoho,9.24,Pune,2026
+STU302,CSE,7.07,1,3,Cybersecurity,Not Placed,,,Nan,2026
+STU303,IT,8.15,1,2,Web Development,Placed,Infosys,7.97,Coimbatore,2026
+STU304,CSE,6.91,0,4,Data Analysis,Not Placed,,,Nan,2026
+STU305,ECE,8.18,1,4,Sql,Placed,HCL,8.61,Noida,2026
+STU306,IT,7.35,0,5,Sql,Placed,Zoho,5.82,Hyderabad,2026
+STU307,CSE,7.19,1,5,Cybersecurity,Placed,HCL,8.03,Noida,2026
+STU308,MECH,7.82,3,3,Java,Placed,Wipro,8.35,Pune,2026
+STU309,IT,8.81,1,3,Cybersecurity,Placed,Capgemini,9.04,Pune,2026
+STU310,IT,6.03,1,6,Unknown,Not Placed,,,Nan,2026
+STU311,IT,7.66,0,3,Data Analysis,Not Placed,,,Nan,2026
+STU312,ECE,6.96,2,6,Sql,Placed,Cognizant,9.29,Hyderabad,2026
+STU313,ECE,7.56,1,3,Cybersecurity,Not Placed,,,Nan,2026
+STU314,EEE,6.15,2,4,Python,Not Placed,,,Nan,2026
+STU315,CSE,7.85,3,6,Web Development,Placed,Tech Mahindra,10.63,Noida,2026
+STU316,IT,6.71,1,5,Web Development,Placed,TCS,7.4,Coimbatore,2026
+STU317,CSE,6.81,1,4,Data Analysis,Placed,Capgemini,8.49,Noida,2026
+STU318,EEE,7.33,0,6,Cybersecurity,Placed,Cognizant,8.3,Bangalore,2026
+STU319,IT,7.8,0,4,Cybersecurity,Placed,Tech Mahindra,7.52,Noida,2026
+STU320,ECE,7.83,1,5,Sql,Placed,Cognizant,8.78,Hyderabad,2026
+STU321,ECE,6.45,2,6,Sql,Placed,HCL,8.41,Noida,2026
+STU322,ECE,7.58,0,5,Web Development,Placed,Accenture,7.16,Hyderabad,2026
+STU323,EEE,6.95,1,4,Cloud Computing,Placed,TCS,5.79,Noida,2026
+STU324,EEE,8.4,1,3,Java,Placed,TCS,9.69,Pune,2026
+STU325,CSE,7.34,1,3,Data Analysis,Not Placed,,,Nan,2026
+STU326,ECE,7.11,0,5,Java,Not Placed,,,Nan,2026
+STU327,IT,7.3,1,3,Sql,Not Placed,,,Nan,2026
+STU328,ECE,6.17,0,3,Machine Learning,Not Placed,,,Nan,2026
+STU329,IT,8.48,1,3,Sql,Placed,Infosys,8.97,Chennai,2026
+STU330,CSE,5.33,1,4,Cybersecurity,Placed,Unknown,,Unknown,2026
+STU331,EEE,9.19,0,5,Python,Placed,Wipro,8.44,Noida,2026
+STU332,CSE,9.37,2,7,Machine Learning,Placed,Infosys,12.07,Bangalore,2026
+STU333,EEE,6.83,3,4,Java,Placed,Infosys,7.89,Coimbatore,2026
+STU334,IT,7.08,1,6,Python,Placed,Cognizant,6.89,Coimbatore,2026
+STU335,ECE,7.49,0,6,Web Development,Placed,Infosys,6.56,Noida,2026
+STU336,IT,6.83,1,8,Cloud Computing,Placed,Wipro,7.71,Coimbatore,2026
+STU337,ECE,7.03,1,8,Sql,Placed,Infosys,6.77,Bangalore,2026
+STU338,CSE,7.36,0,6,Data Analysis,Placed,Capgemini,8.03,Pune,2026
+STU339,IT,8.36,1,4,Data Analysis,Placed,Accenture,9.85,Bangalore,2026
+STU340,ECE,7.99,1,5,Sql,Placed,Freshworks,9.03,Bangalore,2026
+STU341,CSE,8.23,1,5,Data Analysis,Placed,Wipro,7.42,Noida,2026
+STU342,CSE,7.94,0,5,Cloud Computing,Placed,Cognizant,6.5,Bangalore,2026
+STU343,IT,8.41,0,6,Cloud Computing,Placed,Cognizant,8.24,Hyderabad,2026
+STU344,IT,6.57,1,2,Machine Learning,Not Placed,,,Nan,2026
+STU345,CSE,7.81,0,6,Sql,Placed,Capgemini,6.14,Chennai,2026
+STU346,CSE,7.13,1,4,Java,Not Placed,,,Nan,2026
+STU347,MECH,8.91,1,5,Web Development,Placed,Freshworks,10.42,Hyderabad,2026
+STU348,CSE,7.82,0,4,Python,Not Placed,,,Nan,2026
+STU349,EEE,9.47,0,4,Data Analysis,Placed,Cognizant,8.1,Coimbatore,2026
+STU350,ECE,7.27,1,4,Data Analysis,Placed,Accenture,7.33,Coimbatore,2026
+STU351,MECH,8.88,2,5,Web Development,Placed,Freshworks,8.51,Coimbatore,2026
+STU352,CSE,7.48,2,6,Cloud Computing,Placed,Freshworks,9.98,Noida,2026
+STU353,CSE,8.13,1,7,Java,Placed,Infosys,7.6,Bangalore,2026
+STU354,EEE,9.7,1,5,Cloud Computing,Placed,Infosys,10.12,Coimbatore,2026
+STU355,CSE,7.63,1,4,Java,Placed,Cognizant,8.82,Pune,2026
+STU356,IT,7.21,2,4,Data Analysis,Placed,Accenture,7.1,Coimbatore,2026
+STU357,CSE,8.19,0,3,Cloud Computing,Placed,Accenture,7.08,Pune,2026
+STU358,CSE,8.04,0,3,Data Analysis,Placed,Tech Mahindra,5.71,Hyderabad,2026
+STU359,CSE,6.99,1,2,Data Analysis,Not Placed,,,Nan,2026
+STU360,MECH,5.46,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU361,IT,7.81,2,3,Python,Placed,Accenture,7.37,Pune,2026
+STU362,ECE,7.71,1,5,Data Analysis,Placed,Infosys,6.65,Chennai,2026
+STU363,CSE,6.61,0,6,Cloud Computing,Not Placed,,,Nan,2026
+STU364,MECH,6.34,0,7,Cybersecurity,Placed,Freshworks,6.54,Pune,2026
+STU365,IT,7.76,0,4,Java,Not Placed,,,Nan,2026
+STU366,IT,7.99,0,4,Cybersecurity,Placed,HCL,5.97,Hyderabad,2026
+STU367,ECE,6.5,2,4,Python,Placed,Zoho,7.49,Pune,2026
+STU368,CSE,8.06,1,4,Data Analysis,Placed,Zoho,8.45,Chennai,2026
+STU369,EEE,7.55,3,5,Web Development,Placed,Infosys,8.79,Bangalore,2026
+STU370,CSE,7.23,2,7,Python,Placed,Accenture,9.18,Pune,2026
+STU371,ECE,8.32,0,5,Cloud Computing,Placed,TCS,8.45,Hyderabad,2026
+STU372,MECH,6.19,1,5,Web Development,Placed,HCL,6.85,Bangalore,2026
+STU373,ECE,7.99,0,5,Python,Placed,Tech Mahindra,6.65,Bangalore,2026
+STU374,CSE,7.81,0,6,Cloud Computing,Placed,Wipro,7.89,Bangalore,2026
+STU375,EEE,8.4,3,4,Cybersecurity,Placed,Zoho,9.47,Bangalore,2026
+STU376,MECH,6.19,2,4,Machine Learning,Placed,Wipro,7.89,Coimbatore,2026
+STU377,IT,8.77,0,5,Java,Placed,Cognizant,7.13,Noida,2026
+STU378,CSE,6.89,1,5,Python,Not Placed,,,Nan,2026
+STU379,CSE,7.9,1,3,Machine Learning,Placed,Infosys,6.97,Hyderabad,2026
+STU380,CSE,6.47,2,3,Cloud Computing,Not Placed,,,Nan,2026
+STU381,CSE,7.5,0,3,Python,Not Placed,,,Nan,2026
+STU382,ECE,7.8,1,3,Cybersecurity,Placed,Freshworks,7.22,Pune,2026
+STU383,CSE,5.92,1,5,Java,Not Placed,,,Nan,2026
+STU384,EEE,7.71,0,2,Data Analysis,Placed,Infosys,6.06,Pune,2026
+STU385,CSE,9.2,3,4,Machine Learning,Placed,Freshworks,12.11,Bangalore,2026
+STU386,IT,8.37,1,2,Cloud Computing,Placed,Accenture,7.66,Coimbatore,2026
+STU387,IT,7.42,0,3,Python,Not Placed,,,Nan,2026
+STU388,ECE,6.88,1,2,Python,Not Placed,,,Nan,2026
+STU389,CSE,6.93,0,2,Java,Not Placed,,,Nan,2026
+STU390,MECH,6.58,1,3,Cybersecurity,Not Placed,,,Nan,2026
+STU391,EEE,7.39,1,4,Cybersecurity,Placed,HCL,6.18,Pune,2026
+STU392,ECE,8.64,0,4,Python,Placed,Infosys,6.63,Hyderabad,2026
+STU393,EEE,6.35,0,2,Cybersecurity,Not Placed,,,Nan,2026
+STU394,ECE,8.19,1,6,Machine Learning,Placed,Accenture,8.7,Chennai,2026
+STU395,ECE,7.63,1,5,Java,Placed,HCL,7.04,Bangalore,2026
+STU396,MECH,7.33,2,3,Cybersecurity,Placed,Freshworks,7.15,Noida,2026
+STU397,CSE,6.92,1,6,Sql,Placed,Freshworks,7.78,Hyderabad,2026
+STU398,ECE,7.11,2,2,Cybersecurity,Not Placed,,,Nan,2026
+STU399,CSE,6.53,3,3,Sql,Placed,Infosys,8.98,Coimbatore,2026
+STU400,EEE,7.07,2,4,Machine Learning,Placed,HCL,6.68,Hyderabad,2026
+STU401,ECE,6.61,1,4,Cloud Computing,Placed,TCS,7.59,Hyderabad,2026
+STU402,EEE,6.68,0,6,Data Analysis,Not Placed,,,Nan,2026
+STU403,EEE,8.26,3,3,Data Analysis,Placed,HCL,10.51,Hyderabad,2026
+STU404,CSE,6.55,1,5,Web Development,Not Placed,,,Nan,2026
+STU405,MECH,6.73,1,4,Python,Not Placed,,,Nan,2026
+STU406,CSE,8.01,0,5,Java,Placed,Capgemini,8.7,Chennai,2026
+STU407,CSE,7.88,0,2,Python,Placed,Accenture,6.01,Pune,2026
+STU408,ECE,7.12,1,3,Python,Not Placed,,,Nan,2026
+STU409,ECE,5.58,1,5,Cloud Computing,Not Placed,,,Nan,2026
+STU410,EEE,8.18,2,5,Data Analysis,Placed,TCS,8.3,Coimbatore,2026
+STU411,EEE,7.63,0,3,Cybersecurity,Not Placed,,,Nan,2026
+STU412,EEE,8.05,3,5,Machine Learning,Placed,Wipro,10.3,Chennai,2026
+STU413,CSE,6.01,1,5,Data Analysis,Not Placed,,,Nan,2026
+STU414,ECE,6.29,0,4,Machine Learning,Not Placed,,,Nan,2026
+STU415,ECE,6.74,0,8,Cloud Computing,Placed,Tech Mahindra,7.49,Hyderabad,2026
+STU416,IT,6.76,1,4,Data Analysis,Placed,Cognizant,6.27,Noida,2026
+STU417,MECH,7.2,1,4,Python,Placed,Tech Mahindra,7.09,Hyderabad,2026
+STU418,IT,7.08,1,5,Data Analysis,Placed,Freshworks,7.24,Noida,2026
+STU419,CSE,7.23,0,5,Web Development,Placed,HCL,8.08,Noida,2026
+STU420,ECE,6.49,0,3,Java,Not Placed,,,Nan,2026
+STU421,ECE,7.43,1,7,Cloud Computing,Placed,Accenture,7.9,Noida,2026
+STU422,EEE,6.22,1,6,Cloud Computing,Not Placed,,,Nan,2026
+STU423,CSE,8.04,2,5,Sql,Placed,Accenture,9.19,Noida,2026
+STU424,ECE,6.77,0,2,Java,Not Placed,,,Nan,2026
+STU425,CSE,6.63,2,4,Cloud Computing,Placed,Wipro,8.5,Pune,2026
+STU426,CSE,8.06,3,4,Python,Placed,Cognizant,8.88,Bangalore,2026
+STU427,IT,8.26,2,3,Cybersecurity,Placed,Freshworks,8.67,Pune,2026
+STU428,ECE,8.68,0,3,Cloud Computing,Placed,Zoho,8.43,Coimbatore,2026
+STU429,CSE,7.0,0,5,Cloud Computing,Not Placed,,,Nan,2026
+STU430,CSE,6.49,1,4,Sql,Placed,Cognizant,8.09,Pune,2026
+STU431,IT,6.9,2,8,Cloud Computing,Placed,HCL,8.49,Bangalore,2026
+STU432,CSE,7.09,2,6,Python,Placed,Wipro,7.71,Chennai,2026
+STU433,IT,7.87,1,2,Data Analysis,Placed,Tech Mahindra,6.13,Chennai,2026
+STU434,IT,8.17,1,2,Sql,Placed,Freshworks,6.62,Hyderabad,2026
+STU435,ECE,8.21,1,4,Sql,Placed,Cognizant,8.66,Noida,2026
+STU436,CSE,8.51,2,3,Sql,Placed,Infosys,9.1,Coimbatore,2026
+STU437,CSE,7.42,0,5,Data Analysis,Not Placed,,,Nan,2026
+STU438,ECE,8.47,2,5,Machine Learning,Placed,TCS,8.11,Chennai,2026
+STU439,MECH,8.11,0,3,Sql,Placed,Infosys,8.36,Noida,2026
+STU440,CSE,6.48,3,4,Machine Learning,Not Placed,,,Nan,2026
+STU441,EEE,8.6,1,5,Cybersecurity,Placed,Infosys,9.94,Chennai,2026
+STU442,CSE,6.39,0,5,Cloud Computing,Not Placed,,,Nan,2026
+STU443,ECE,6.32,0,6,Java,Not Placed,,,Nan,2026
+STU444,ECE,6.36,1,6,Machine Learning,Placed,Wipro,5.96,Noida,2026
+STU445,IT,9.03,0,7,Machine Learning,Placed,HCL,8.02,Pune,2026
+STU446,EEE,7.32,1,6,Java,Placed,HCL,6.83,Pune,2026
+STU447,ECE,8.58,0,6,Web Development,Placed,Zoho,8.38,Noida,2026
+STU448,IT,7.95,0,5,Web Development,Placed,Freshworks,6.45,Coimbatore,2026
+STU449,EEE,7.41,3,5,Machine Learning,Placed,Wipro,8.14,Pune,2026
+STU450,CSE,7.42,0,4,Web Development,Placed,Freshworks,6.49,Bangalore,2026
+STU451,CSE,6.52,0,5,Cloud Computing,Not Placed,,,Nan,2026
+STU452,ECE,7.86,1,3,Unknown,Placed,Capgemini,6.22,Chennai,2026
+STU453,EEE,8.61,2,5,Machine Learning,Placed,Zoho,10.67,Bangalore,2026
+STU454,EEE,7.24,0,6,Machine Learning,Placed,Zoho,7.76,Chennai,2026
+STU455,CSE,7.47,1,5,Data Analysis,Placed,Zoho,8.48,Chennai,2026
+STU456,EEE,7.46,1,6,Cybersecurity,Placed,Tech Mahindra,7.2,Chennai,2026
+STU457,MECH,6.81,2,5,Sql,Placed,TCS,9.36,Noida,2026
+STU458,IT,8.05,2,4,Java,Placed,TCS,9.04,Chennai,2026
+STU459,IT,6.53,2,6,Java,Placed,Wipro,8.77,Bangalore,2026
+STU460,CSE,7.93,1,5,Cloud Computing,Placed,Freshworks,8.04,Coimbatore,2026
+STU461,MECH,7.55,3,8,Machine Learning,Placed,Wipro,10.03,Noida,2026
+STU462,EEE,6.86,1,6,Cloud Computing,Placed,Capgemini,7.97,Bangalore,2026
+STU463,CSE,7.23,2,3,Java,Placed,Zoho,8.59,Hyderabad,2026
+STU464,IT,6.31,1,7,Cybersecurity,Placed,Capgemini,6.69,Pune,2026
+STU465,EEE,7.32,0,5,Web Development,Not Placed,,,Nan,2026
+STU466,EEE,7.47,3,5,Java,Placed,Cognizant,8.59,Coimbatore,2026
+STU467,CSE,7.65,2,5,Web Development,Placed,Capgemini,8.5,Coimbatore,2026
+STU468,EEE,7.16,2,4,Python,Placed,Freshworks,7.89,Noida,2026
+STU469,CSE,7.38,0,5,Machine Learning,Placed,Zoho,7.76,Coimbatore,2026
+STU470,IT,7.46,0,5,Web Development,Not Placed,,,Nan,2026
+STU471,CSE,7.29,0,5,Cybersecurity,Not Placed,,,Nan,2026
+STU472,CSE,7.03,0,3,Data Analysis,Not Placed,,,Nan,2026
+STU473,ECE,7.71,2,5,Data Analysis,Placed,Tech Mahindra,9.04,Chennai,2026
+STU474,EEE,7.41,0,3,Java,Not Placed,,,Nan,2026
+STU475,EEE,8.04,1,4,Web Development,Placed,Zoho,7.72,Bangalore,2026
+STU476,MECH,8.34,1,4,Python,Placed,Zoho,8.24,Noida,2026
+STU477,IT,6.04,1,4,Sql,Not Placed,,,Nan,2026
+STU478,ECE,6.11,0,7,Cloud Computing,Not Placed,,,Nan,2026
+STU479,ECE,6.83,1,4,Sql,Placed,Wipro,8.46,Coimbatore,2026
+STU480,ECE,7.56,1,3,Web Development,Placed,Freshworks,8.46,Bangalore,2026
+STU481,ECE,6.86,2,5,Sql,Placed,Wipro,6.7,Noida,2026
+STU482,CSE,5.41,0,2,Data Analysis,Not Placed,,,Nan,2026
+STU483,IT,7.59,1,5,Cybersecurity,Placed,Freshworks,8.5,Coimbatore,2026
+STU484,CSE,8.11,1,2,Python,Placed,Infosys,7.27,Coimbatore,2026
+STU485,CSE,7.66,0,6,Machine Learning,Placed,TCS,7.42,Coimbatore,2026
+STU486,CSE,6.84,2,6,Data Analysis,Placed,Wipro,7.75,Noida,2026
+STU487,IT,7.62,2,3,Python,Placed,Tech Mahindra,7.99,Coimbatore,2026
+STU488,MECH,7.47,0,6,Cloud Computing,Placed,Capgemini,6.25,Bangalore,2026
+STU489,CSE,7.77,0,6,Python,Placed,Capgemini,7.48,Coimbatore,2026
+STU490,CSE,7.05,1,4,Web Development,Placed,HCL,8.6,Hyderabad,2026
+STU491,CSE,7.29,1,7,Cloud Computing,Placed,Zoho,8.56,Hyderabad,2026
+STU492,IT,7.2,0,5,Cloud Computing,Placed,Wipro,5.34,Bangalore,2026
+STU493,EEE,7.23,0,4,Cloud Computing,Placed,HCL,6.44,Hyderabad,2026
+STU494,ECE,6.39,0,5,Sql,Not Placed,,,Nan,2026
+STU495,EEE,8.13,0,6,Sql,Placed,TCS,8.97,Noida,2026
+STU496,CSE,8.27,1,4,Web Development,Placed,Capgemini,7.62,Coimbatore,2026
+STU497,ECE,7.62,0,6,Data Analysis,Placed,Capgemini,7.49,Pune,2026
+STU498,ECE,6.75,0,3,Java,Not Placed,,,Nan,2026
+STU499,CSE,8.06,1,6,Java,Placed,HCL,9.97,Chennai,2026
+STU500,CSE,8.37,1,2,Cloud Computing,Placed,Accenture,7.99,Hyderabad,2026
