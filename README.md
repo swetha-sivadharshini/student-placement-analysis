@@ -114,7 +114,6 @@ Analysis included:
 - Average CGPA by placement status
 - Average CGPA by branch
 
-## Power BI Dashboard
 
 ## Power BI Dashboard
 
