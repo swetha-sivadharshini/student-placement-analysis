@@ -116,19 +116,19 @@ Analysis included:
 
 ## Power BI Dashboard
 
-The Power BI report is intended to present placement-related KPIs and comparisons in an interactive format.
+## Power BI Dashboard
 
-Dashboard analysis may include:
+The Power BI report contains two interactive pages for exploring student placement outcomes and salary patterns.
 
-- Total students and placement rate
-- Placed versus non-placed students
-- Branch-wise placement comparisons
-- CGPA analysis
-- Internship and skills analysis
-- Salary package analysis
-- Company and job location analysis
+### Page 1: Placement Overview
 
-*Include only visuals that you have actually completed in the dashboard.*
+![Placement Overview](Screenshots/Placement_Overview_Full_Dashboard.png)
+
+### Page 2: Skills and Salary Analysis
+
+![Skills and Salary Analysis](Screenshots/Skills_Salary_Analysis_Full_Dashboard.png)
+
+
 
 ## Key Findings
 
